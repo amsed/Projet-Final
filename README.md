@@ -1,6 +1,6 @@
 <h1>Création d'un site web pour mon association </h1> 
  Ce repository contient le dernier projet du semestre. 
- Le lien du site web de mon "association" : https://github.com/amsed/Projet-Final
+ Voici le lien du site web de mon "association" : file:///Users/amelsedrati/Documents/GitHub/Projet-Final/monSite.html
   <br> </br>
 Bonne lecture 🍷
 
